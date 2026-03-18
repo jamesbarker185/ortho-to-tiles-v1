@@ -1,0 +1,11 @@
+processed/
+*.tif
+*.pmtiles
+*.mbtiles
+temp/
+orthophoto/
+processed_tiles/
+*.rar
+*.zip
+*.7z
+node_modules/
